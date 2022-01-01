@@ -1,27 +1,27 @@
 [
   {
     "full_name": "varbhat/exatorrent",
-    "stargazers_count": 1351,
-    "open_issues_count": 2,
+    "stargazers_count": 1352,
+    "open_issues_count": 3,
     "forks_count": 63
   },
   {
     "full_name": "delta-io/delta",
-    "stargazers_count": 3915,
-    "open_issues_count": 148,
-    "forks_count": 928
+    "stargazers_count": 3923,
+    "open_issues_count": 150,
+    "forks_count": 929
   },
   {
     "full_name": "uxmal/reko",
     "stargazers_count": 1201,
-    "open_issues_count": 156,
-    "forks_count": 161
+    "open_issues_count": 158,
+    "forks_count": 163
   },
   {
     "full_name": "OpenNMS/opennms",
-    "stargazers_count": 636,
+    "stargazers_count": 637,
     "open_issues_count": 51,
-    "forks_count": 490
+    "forks_count": 491
   },
   {
     "full_name": "mszoek/airyx",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "subhra74/xdm",
-    "stargazers_count": 3258,
+    "stargazers_count": 3263,
     "open_issues_count": 525,
-    "forks_count": 669
+    "forks_count": 672
   },
   {
     "full_name": "orbitersim/orbiter",
-    "stargazers_count": 1263,
-    "open_issues_count": 20,
-    "forks_count": 102
+    "stargazers_count": 1264,
+    "open_issues_count": 21,
+    "forks_count": 104
   },
   {
     "full_name": "index-machines/index",
-    "stargazers_count": 1569,
+    "stargazers_count": 1570,
     "open_issues_count": 46,
     "forks_count": 204
   },
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "opensearch-project/OpenSearch",
-    "stargazers_count": 4271,
-    "open_issues_count": 318,
-    "forks_count": 432
+    "stargazers_count": 4287,
+    "open_issues_count": 314,
+    "forks_count": 434
   },
   {
     "full_name": "frida/frida",
-    "stargazers_count": 8868,
-    "open_issues_count": 938,
-    "forks_count": 994
+    "stargazers_count": 8882,
+    "open_issues_count": 943,
+    "forks_count": 997
   },
   {
     "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 43288,
-    "open_issues_count": 349,
+    "stargazers_count": 43328,
+    "open_issues_count": 352,
     "forks_count": 7704
   },
   {
@@ -79,31 +79,31 @@
   },
   {
     "full_name": "gnif/LookingGlass",
-    "stargazers_count": 3388,
+    "stargazers_count": 3394,
     "open_issues_count": 5,
     "forks_count": 207
   },
   {
     "full_name": "TeamPiped/Piped",
-    "stargazers_count": 1563,
-    "open_issues_count": 81,
-    "forks_count": 85
+    "stargazers_count": 1568,
+    "open_issues_count": 85,
+    "forks_count": 87
   },
   {
     "full_name": "infinyon/fluvio",
-    "stargazers_count": 814,
-    "open_issues_count": 69,
-    "forks_count": 50
+    "stargazers_count": 820,
+    "open_issues_count": 65,
+    "forks_count": 51
   },
   {
     "full_name": "romeovs/creep",
-    "stargazers_count": 1645,
+    "stargazers_count": 1646,
     "open_issues_count": 10,
     "forks_count": 29
   },
   {
     "full_name": "google/lyra",
-    "stargazers_count": 2949,
+    "stargazers_count": 2950,
     "open_issues_count": 40,
     "forks_count": 261
   },
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "kingoflolz/mesh-transformer-jax",
-    "stargazers_count": 3663,
+    "stargazers_count": 3682,
     "open_issues_count": 7,
-    "forks_count": 431
+    "forks_count": 435
   },
   {
     "full_name": "dosbox-staging/dosbox-staging",
-    "stargazers_count": 580,
-    "open_issues_count": 122,
-    "forks_count": 76
+    "stargazers_count": 586,
+    "open_issues_count": 125,
+    "forks_count": 75
   },
   {
     "full_name": "RangeNetworks/dev",
-    "stargazers_count": 502,
+    "stargazers_count": 504,
     "open_issues_count": 52,
-    "forks_count": 219
+    "forks_count": 220
   },
   {
     "full_name": "offensive-security/exploitdb",
-    "stargazers_count": 6709,
+    "stargazers_count": 6714,
     "open_issues_count": 26,
-    "forks_count": 1847
+    "forks_count": 1848
   },
   {
     "full_name": "haileys/rustboot",
-    "stargazers_count": 1423,
+    "stargazers_count": 1424,
     "open_issues_count": 6,
     "forks_count": 232
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 2890,
-    "open_issues_count": 570,
-    "forks_count": 158
+    "stargazers_count": 2899,
+    "open_issues_count": 577,
+    "forks_count": 159
   },
   {
     "full_name": "myriadrf/lc-website",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "yggdrasil-network/yggdrasil-go",
-    "stargazers_count": 1859,
+    "stargazers_count": 1868,
     "open_issues_count": 120,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "MayaPosch/NymphCast",
-    "stargazers_count": 2013,
+    "stargazers_count": 2014,
     "open_issues_count": 12,
     "forks_count": 67
   },
