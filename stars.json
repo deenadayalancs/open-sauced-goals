@@ -1,111 +1,111 @@
 [
   {
     "full_name": "varbhat/exatorrent",
-    "stargazers_count": 1444,
-    "open_issues_count": 8,
+    "stargazers_count": 1445,
+    "open_issues_count": 6,
     "forks_count": 75
   },
   {
     "full_name": "delta-io/delta",
-    "stargazers_count": 4410,
+    "stargazers_count": 4414,
     "open_issues_count": 178,
-    "forks_count": 1051
+    "forks_count": 1053
   },
   {
     "full_name": "uxmal/reko",
-    "stargazers_count": 1357,
-    "open_issues_count": 167,
+    "stargazers_count": 1359,
+    "open_issues_count": 166,
     "forks_count": 177
   },
   {
     "full_name": "OpenNMS/opennms",
     "stargazers_count": 674,
-    "open_issues_count": 47,
+    "open_issues_count": 34,
     "forks_count": 516
   },
   {
     "full_name": "mszoek/airyx",
-    "stargazers_count": 2400,
-    "open_issues_count": 68,
+    "stargazers_count": 2408,
+    "open_issues_count": 63,
     "forks_count": 90
   },
   {
     "full_name": "subhra74/xdm",
-    "stargazers_count": 4014,
-    "open_issues_count": 569,
-    "forks_count": 784
+    "stargazers_count": 4029,
+    "open_issues_count": 570,
+    "forks_count": 787
   },
   {
     "full_name": "orbitersim/orbiter",
     "stargazers_count": 1324,
-    "open_issues_count": 25,
-    "forks_count": 125
+    "open_issues_count": 26,
+    "forks_count": 124
   },
   {
     "full_name": "index-machines/index",
-    "stargazers_count": 1752,
-    "open_issues_count": 55,
-    "forks_count": 230
+    "stargazers_count": 1760,
+    "open_issues_count": 48,
+    "forks_count": 231
   },
   {
     "full_name": "RangeNetworks/OpenBTS-UMTS",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 40,
     "forks_count": 168
   },
   {
     "full_name": "opensearch-project/OpenSearch",
-    "stargazers_count": 5077,
+    "stargazers_count": 5116,
     "open_issues_count": 531,
-    "forks_count": 587
+    "forks_count": 590
   },
   {
     "full_name": "frida/frida",
-    "stargazers_count": 9853,
-    "open_issues_count": 1050,
-    "forks_count": 1115
+    "stargazers_count": 9871,
+    "open_issues_count": 1055,
+    "forks_count": 1119
   },
   {
     "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 45423,
-    "open_issues_count": 374,
-    "forks_count": 8002
+    "stargazers_count": 45464,
+    "open_issues_count": 375,
+    "forks_count": 8013
   },
   {
     "full_name": "avinassh/fast-sqlite3-inserts",
-    "stargazers_count": 277,
+    "stargazers_count": 280,
     "open_issues_count": 17,
     "forks_count": 33
   },
   {
     "full_name": "gnif/LookingGlass",
-    "stargazers_count": 3547,
+    "stargazers_count": 3552,
     "open_issues_count": 4,
-    "forks_count": 224
+    "forks_count": 225
   },
   {
     "full_name": "TeamPiped/Piped",
-    "stargazers_count": 2281,
-    "open_issues_count": 167,
-    "forks_count": 138
+    "stargazers_count": 2293,
+    "open_issues_count": 165,
+    "forks_count": 141
   },
   {
     "full_name": "infinyon/fluvio",
-    "stargazers_count": 1071,
-    "open_issues_count": 117,
-    "forks_count": 86
+    "stargazers_count": 1093,
+    "open_issues_count": 118,
+    "forks_count": 85
   },
   {
     "full_name": "romeovs/creep",
-    "stargazers_count": 1680,
+    "stargazers_count": 1683,
     "open_issues_count": 10,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "google/lyra",
     "stargazers_count": 3026,
     "open_issues_count": 43,
-    "forks_count": 277
+    "forks_count": 278
   },
   {
     "full_name": "tobetz/LegoMicroscope",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "kingoflolz/mesh-transformer-jax",
-    "stargazers_count": 4151,
+    "stargazers_count": 4177,
     "open_issues_count": 22,
-    "forks_count": 537
+    "forks_count": 545
   },
   {
     "full_name": "dosbox-staging/dosbox-staging",
-    "stargazers_count": 661,
-    "open_issues_count": 139,
+    "stargazers_count": 663,
+    "open_issues_count": 138,
     "forks_count": 84
   },
   {
     "full_name": "RangeNetworks/dev",
-    "stargazers_count": 520,
+    "stargazers_count": 519,
     "open_issues_count": 52,
     "forks_count": 226
   },
   {
     "full_name": "offensive-security/exploitdb",
-    "stargazers_count": 7170,
+    "stargazers_count": 7177,
     "open_issues_count": 37,
-    "forks_count": 1910
+    "forks_count": 1912
   },
   {
     "full_name": "haileys/rustboot",
@@ -146,14 +146,14 @@
   {
     "full_name": "maplibre/maplibre-gl-native",
     "stargazers_count": 387,
-    "open_issues_count": 109,
-    "forks_count": 105
+    "open_issues_count": 120,
+    "forks_count": 106
   },
   {
     "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 3356,
-    "open_issues_count": 796,
-    "forks_count": 257
+    "stargazers_count": 3375,
+    "open_issues_count": 813,
+    "forks_count": 259
   },
   {
     "full_name": "myriadrf/lc-website",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "yggdrasil-network/yggdrasil-go",
-    "stargazers_count": 2476,
+    "stargazers_count": 2481,
     "open_issues_count": 138,
-    "forks_count": 170
+    "forks_count": 173
   },
   {
     "full_name": "MayaPosch/NymphCast",
-    "stargazers_count": 2175,
+    "stargazers_count": 2176,
     "open_issues_count": 12,
     "forks_count": 69
   },
   {
     "full_name": "whitecatboard/Lua-RTOS-ESP32",
-    "stargazers_count": 962,
+    "stargazers_count": 966,
     "open_issues_count": 49,
-    "forks_count": 189
+    "forks_count": 190
   }
 ]
